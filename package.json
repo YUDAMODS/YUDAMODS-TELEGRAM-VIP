@@ -4,7 +4,7 @@
   "description": "nit",
   "main": "index.js",
   "scripts": {
-    "test": "npm install request"
+    "test": "npm install request && npm install telegraf"
   },
   "repository": {
     "type": "git",
