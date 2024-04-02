@@ -18,4 +18,4 @@ Thanks To :
 
 require("./yudamods")
 require("./bug")
-require"./ddos")
+require("./ddos")
